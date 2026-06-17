@@ -23,7 +23,7 @@
           :ref="el => setCardRef(el, index)"
         >
           <div class="project-image">
-            <img :src="project.image" :alt="project.title">
+            <img :src="resolveImg(project.image)" :alt="project.title">
           </div>
           <div class="project-content">
             <div class="project-meta">
@@ -45,6 +45,11 @@ import { useI18n } from 'vue-i18n'
 import projects from '@/content/projects.json'
 
 const { t } = useI18n()
+
+// Local images live in /public and must respect the deploy base path
+// (e.g. /sheleads-uz/ on GitHub Pages). External URLs pass through unchanged.
+const resolveImg = (p) =>
+  /^https?:\/\//.test(p) ? p : import.meta.env.BASE_URL + p.replace(/^\//, '')
 
 const visibleCards = ref([])
 const cardRefs = ref([])
