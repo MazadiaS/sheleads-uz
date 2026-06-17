@@ -1,0 +1,4 @@
+{
+  "_note": "Russian translations. Mirror the key structure of en.json. Any key left out automatically shows the English text.",
+  "lang": { "en": "English", "uz": "O'zbekcha", "ru": "Русский" }
+}

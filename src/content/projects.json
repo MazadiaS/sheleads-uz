@@ -1,0 +1,18 @@
+[
+  {
+    "image": "/images/yashil_qadam.jpg",
+    "season": "Season 1",
+    "category": "Environment",
+    "title": "Yashil Qadam",
+    "description": "Telegram bot for waste identification + clean-up activities.",
+    "badge": "🏆 Best Impact Project."
+  },
+  {
+    "image": "https://sheleadsuzbekistan.lovable.app/assets/career-navigator-NApXQnKu.jpg",
+    "season": "Season 2",
+    "category": "Education",
+    "title": "Career Navigator",
+    "description": "Mentorship and career guidance for high school and university students.",
+    "badge": null
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "lang": { "en": "English", "uz": "O'zbekcha", "ru": "Русский" },
+  "nav": {
+    "home": "Home",
+    "apply": "Apply",
+    "projects": "Projects",
+    "faq": "FAQ",
+    "donate": "Donate",
+    "cta": "Apply Now"
+  },
+  "hero": {
+    "tagline": "#For_women_by_women",
+    "title": "Where ideas become impactful projects",
+    "description": "We support females aged 15-25 in Tashkent to design, build, and launch real social projects that change their communities.",
+    "status": "Season 5 in progress",
+    "joinNext": "Join the next season",
+    "seePast": "See past projects"
+  },
+  "apply": {
+    "title": "Join {season}",
+    "intro": "Register your interest to receive updates about the next season of SheLeads Uzbekistan.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Your Phone (optional)",
+    "submit": "Register Interest",
+    "submitting": "Submitting…",
+    "successTitle": "Thank you for registering!",
+    "successBody": "We've received your interest and will be in touch about {season}.",
+    "errName": "Please enter your name.",
+    "errEmailRequired": "Please enter your email.",
+    "errEmailInvalid": "Please enter a valid email address.",
+    "errGeneric": "Something went wrong. Please try again in a moment.",
+    "errNotConfigured": "The application service is not configured yet. Please contact us directly."
+  },
+  "donate": {
+    "title": "Support Our Mission",
+    "intro": "Your donation helps us empower more young women to create social impact projects in their communities.",
+    "other": "Other",
+    "customPlaceholder": "Amount in so'm",
+    "withPayme": "Donate with Payme",
+    "withClick": "Donate with Click",
+    "bankTitle": "Or donate by bank transfer",
+    "pending": "Donation options are being set up. Please contact us to support our mission.",
+    "minError": "Minimum donation is {min}."
+  },
+  "sections": {
+    "faqTitle": "Frequently Asked Questions",
+    "projectsTitle": "Featured projects",
+    "projectsSubtitle": "A glimpse of what our participants have built.",
+    "teamTitle": "Meet the team",
+    "teamSubtitle": "From volunteers to founders — the women behind SheLeads Uzbekistan."
+  }
+}

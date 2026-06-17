@@ -1,0 +1,4 @@
+{
+  "_note": "Uzbek (Latin) translations. Mirror the key structure of en.json. Any key left out automatically shows the English text. Watch for smart quotes — use a straight apostrophe (') in o'zbekcha.",
+  "lang": { "en": "English", "uz": "O'zbekcha", "ru": "Русский" }
+}
